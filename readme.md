@@ -7,7 +7,7 @@ Welcome to the SystemC Crash Course! This course is designed to provide a hands-
 Below is a list of examples and resources included in this course. Click on the links to explore each topic:
 
 ### Examples
-- [Example 0](example0.cpp)
+- [install](install.md)
 - [Example 1](example1.md)
 - [Example 2](example2.md)
 - [Example 3](example3.md)
